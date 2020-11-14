@@ -1,2 +1,3 @@
 # ex1-C
-Systems programming A- ex1
+This project includes the first task in programming systems A.
+The purpose of the task is to calculate the values of functions at some point in the graph.
